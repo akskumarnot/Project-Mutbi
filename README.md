@@ -32,6 +32,7 @@ Keep adding your ideas here :(also add what we might learn through the project i
    for the Manipalites to show and share and gradually we will start some online contest to Catch
    more attention and keep the fire burning . 
    (php,handling good amount of data at the server end)
+    
 
 5. *Manipal Mentors*
     A well designed Website , where we hace different catagories , where people can post their Questions 
@@ -42,4 +43,12 @@ Keep adding your ideas here :(also add what we might learn through the project i
     get a quick reply for their problem from people nearby. It will send text to the user's phone , when 
     they are answered.
     (web designing, php)
+
+6. *Track My Dues*
+    A common topic of discussion in almost every student group is "DUES" to be paid. In MU , there
+    is no means for the students to check their balance left in their FC or mess(apart from going to 
+    the financial section), their hostel dues , their library dues etc. We can make it for the university
+   . We know around 60 lakh was spent on ems system. This is something similar. A desktop application
+   , android and ios application and a small website probably .
+    (Qt , java , ios development, how university finance system works )
 
