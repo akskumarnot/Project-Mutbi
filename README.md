@@ -32,3 +32,13 @@ Keep adding your ideas here :(also add what we might learn through the project i
    to Catch more attention and keep the fire burning . 
    (php,handling good amount of data at the server end)
 
+5. *Manipal Mentors*
+    A well designed Website , where we hace different catagories , where people can post their Questions 
+    and we will engage some mentors with sound knowledge of the subject or topic to answer to the posts .
+    For eg. For Computer Science , we can have our respected LUG seniors and a few Faculty members.For 
+    gadgets we can find more , then for Bio and medical reltated questions , we can talk to people from 
+    KMC . These are a very few to mention. It can be the best place for anyone to ask any question and 
+    get a quick reply for their problem from people nearby. It will send text to the user's phone , when 
+    they are answered.
+    (web designing, php)
+
