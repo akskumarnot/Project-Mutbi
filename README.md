@@ -24,9 +24,11 @@ Keep adding your ideas here :(also add what we might learn through the project i
    postcards to the recipient.
    (Networking in Android)
 
-4. *no name*
+4. *Manipal's Got Talent*
    No one can deny that a sizeable number of the MU students spend a major part of their time singing
    and recording songs(haha rajat).Lets aim to make a dedicated forum for them where they can share 
-   their music.This may lead to increased artistic collaboration in MU.
+   their music.This may lead to increased artistic collaboration in MU.It will be one and the only 
+   best platform for the Manipalites to show and share and gradually we will start some online contests
+   to Catch more attention and keep the fire burning . 
    (php,handling good amount of data at the server end)
 
