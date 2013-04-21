@@ -1,6 +1,8 @@
-Project-Mutbi
+Project-MUTBI
 =============
 Keep adding your ideas here :
+
+
 1. *CHAT SERVICE*
    As decided , First we will work on the chat service , to make it more user friendly for a lay man. 
    The initial attempt would be to make it the best means for the students and teachers to interact ,not
