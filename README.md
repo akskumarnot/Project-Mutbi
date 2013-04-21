@@ -17,4 +17,5 @@ Keep adding your ideas here :
     more. We will provide them technical assistance as and when required . Start by selling the 
     Product locally and then go to bigger market .
 
-
+3.Android app called 'expressions'.Which dosent send text messages sends personalised painted 
+   postcards to the recipient.
