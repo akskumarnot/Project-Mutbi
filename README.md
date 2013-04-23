@@ -61,33 +61,89 @@ a. Title of the business (Company name), Individual/Team name(s).
 b. Business
 
 a. Company’s business (description short enough to fit on a business card)
+
+
 b. Mission/ Vision statement
+
+
 c. Organization Chart(optional)
+
+
 c. Team
+
+
 a. Background of management
+
+
 b. Board composition
+
+
 d. Product(s)
+
+
 a. Product description
+
+
 b. Development schedule
+
+
 c. Differentiation (USP)
+
+
 d. Pricing strategy
+
+
 e. Operations
+
+
 a. Method of manufacturing/Providing service
+
+
 b. Special equipments if any
+
+
 c. Manpower requirements
+
+
 d. Space requirements (sq.ft.)
+
+
 f. Market
+
+
 a. Target Market
+
+
 b. Market size
+
+
 c. Industry Analysis &Trend
+
+
 d. Projected sales
+
+
 e. Competitors /Competitive advantages
+
+
 g. Distribution
+
+
 a. Sales channels
+
+
 b. Partnerships.
+
+
 h. Financials
+
+
 a. Start up costs ,sources of funding
+
+
 b. Projected P&L (first two years by quarters)
+
+
 c. Projected cash flow (first two years by quarters)
 Declaration sheet indicating that the idea is own and does not violate the intellectual property rights
 
