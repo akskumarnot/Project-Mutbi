@@ -32,6 +32,7 @@ Keep adding your ideas here :(also add what we might learn through the project i
    for the Manipalites to show and share and gradually we will start some online contest to Catch
    more attention and keep the fire burning . 
    (php,handling good amount of data at the server end)
+good
     
 
 5. *Manipal Mentors*
