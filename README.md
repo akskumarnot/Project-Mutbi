@@ -57,6 +57,13 @@ good
    There are many people who are not able to find apt roomates at the end of the year for the comming year.
    Lets make a website/webapp that takes the interests / preferences of people as input and suggests them roomates.
    The site should also have a voting system to help people choose.
+   (web dev/design)
+
+8.An app for the CR's which takes their facebook,email credentials and helps him post the same notice on facebook and 
+   also email the same message(for those who are not on facebook).
+   (Andorid,Desktop)
+   
+9. After earning credibility we can make an org page where we can also make applications on client request.   
 ====================================================BUSINESS-PLAN=====================================================
 
 a. Title of the business (Company name), Individual/Team name(s).
