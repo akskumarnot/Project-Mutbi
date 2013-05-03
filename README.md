@@ -53,7 +53,10 @@ good
    , android and ios application and a small website probably .
     (Qt , java , ios development, how university finance system works )
 
-
+7. *find me a roomie*
+   There are many people who are not able to find apt roomates at the end of the year for the comming year.
+   Lets make a website/webapp that takes the interests / preferences of people as input and suggests them roomates.
+   The site should also have a voting system to help people choose.
 ====================================================BUSINESS-PLAN=====================================================
 
 a. Title of the business (Company name), Individual/Team name(s).
